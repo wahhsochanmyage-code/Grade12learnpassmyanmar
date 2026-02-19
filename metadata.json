@@ -1,0 +1,7 @@
+{
+  "name": "Shwe G12 Academy",
+  "description": "A comprehensive Grade 12 learning platform for Myanmar students featuring a friendly yet strict AI Tutor, lesson-from-image capabilities, and a disciplined study system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
